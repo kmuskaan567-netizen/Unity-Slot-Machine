@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/b24a5080-cd31-4530-a9d4-92599ac414c9
+
 # Unity-Slot-Machine
 
 A polished 2D slot machine game created using Unity and C#.
