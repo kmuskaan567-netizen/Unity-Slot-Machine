@@ -54,3 +54,8 @@ The reel spinning and vibration effects were implemented through code-driven ani
 * Dynamic payout system
 * Interactive lever animation
 * Enhanced casino-style interface
+
+## Live WebGL Build
+
+Playable browser version:
+https://kmuskaan567-netizen.github.io/Unity-Slot-Machine/
